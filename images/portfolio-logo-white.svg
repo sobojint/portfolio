@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="118.94336"
+   height="141.14453"
+   viewBox="0 0 118.94336 141.1445"
+   sodipodi:docname="portfolio-logo-alt1-white.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:export-filename="portfolio-logo-alt.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="4.4138932"
+     inkscape:cx="-15.632458"
+     inkscape:cy="29.339178"
+     inkscape:window-width="2560"
+     inkscape:window-height="1368"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="118.94336"
+       height="141.1445"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1"
+     transform="translate(-109.28906,-106.79688)">
+    <path
+       id="rect1"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linecap:round"
+       d="m 123.33594,106.79688 c -7.78179,0 -14.04688,6.26508 -14.04688,14.04687 v 113.05078 c 0,7.78179 6.26509,14.04688 14.04688,14.04688 h 90.84961 c 7.78179,0 14.04687,-6.26509 14.04687,-14.04688 V 120.84375 c 0,-7.78179 -6.26508,-14.04687 -14.04687,-14.04687 z m 8.63086,13.4082 h 73.58789 c 6.30325,0 11.37695,5.07565 11.37695,11.3789 v 91.57227 c 0,6.30325 -5.0737,11.37695 -11.37695,11.37695 H 131.9668 c -6.30326,0 -11.37891,-5.0737 -11.37891,-11.37695 v -91.57227 c 0,-6.30325 5.07565,-11.3789 11.37891,-11.3789 z"
+       inkscape:label="border" />
+    <text
+       xml:space="preserve"
+       style="font-size:66.6667px;line-height:1.4;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linecap:round"
+       x="127.1266"
+       y="201.22983"
+       id="text3"
+       inkscape:label="initials"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="127.1266"
+         y="201.22983"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff">TS</tspan></text>
+  </g>
+</svg>
