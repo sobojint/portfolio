@@ -471,7 +471,7 @@ highlighting */
         display: none;
     }
 
-    .projects-link {
+    .on-small-hide {
         display: flex;
     }
 }
